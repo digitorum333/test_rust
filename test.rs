@@ -1,5 +1,5 @@
-fn() {
-let age = 34
-println! ("{}". age )
+fn main() {
+let age = 35;
+println! ("{}", age )
 
 }
